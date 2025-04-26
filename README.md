@@ -1,6 +1,5 @@
 # E-commerce Database Design
 
-![ERD Diagram](docs/erd.png) *(replace with your actual ERD image)*
 
 ## 📌 Project Overview
 This repository contains the complete database design for an e-commerce platform, including:
